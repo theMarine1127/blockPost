@@ -1,5 +1,7 @@
 este es un ejercicio de GIT
 
+ingresando mas cambios al archivo
+
 aprendiendo git desde cero
 
 mi primera chamba
