@@ -1,3 +1,5 @@
 este es un ejercicio de GIT
 
+aprendiendo git desde cero
+
 mi primera chamba
