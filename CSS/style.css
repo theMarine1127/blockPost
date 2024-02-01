@@ -2,4 +2,12 @@ body {
     color: blue;
     text-align: center;
     font-family: "Arial";
+    padding: 30px;
+    border: 1px solid #4CAF50;
+    
 }
+
+p {
+    text-align: left;
+}
+
